@@ -1,1 +1,2 @@
-{}
+{"C:\\Users\\shubham_gupta7\\my-learning\\backend-api\\helloWorld.js": {"path":"C:\\Users\\shubham_gupta7\\my-learning\\backend-api\\helloWorld.js","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":27}},"1":{"start":{"line":5,"column":0},"end":{"line":5,"column":28}}},"fnMap":{"0":{"name":"helloWorld","decl":{"start":{"line":1,"column":9},"end":{"line":1,"column":19}},"loc":{"start":{"line":1,"column":22},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"b733b7aeb9c6397269dbcfcf3b2aa34157200f38"}
+}
